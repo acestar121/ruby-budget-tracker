@@ -10,35 +10,37 @@
 
 - [🪙 Budget Tracker](#-budget_tracker)
   - [📸 Screenshots](#screenshot)
-  - [🧰 Tech Stack  ](#-tech-stack--)
-  - [✨ Key Features  ](#-key-features--)
+  - [🧰 Tech Stack ](#-tech-stack--)
+  - [✨ Key Features ](#-key-features--)
   - [🚀 Live Demo](#-live-demo--)
-  - [📘 Getting Started  ](#-getting-started--)
+  - [📘 Getting Started ](#-getting-started--)
     - [📋 Prerequisites](#-prerequisites)
     - [📂 Setup](#-setup)
     - [📥 Installation](#-installation)
     - [💾 Database](#-database)
     - [💻 Usage](#-usage)
     - [🧪 Run tests](#-run-tests)
-  - [👨‍🚀 Authors  ](#-authors--)
-  - [🎯 Future Features  ](#-future-features--)
-  - [🤝 Contribution  ](#-contribution--)
-  - [💖 Show Your Support  ](#-show-your-support--)
+  - [👨‍🚀 Authors ](#-authors--)
+  - [🎯 Future Features ](#-future-features--)
+  - [🤝 Contribution ](#-contribution--)
+  - [💖 Show Your Support ](#-show-your-support--)
   - [🙏 Acknowledgements](#-acknowledgements)
   - [📜 License ](#-license-)
-</details>
+  </details>
 
 # 🪙 Budget Tracker
 
 **Budget Tracker** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
 ## 📸 Screenshots <a name="screenshot"></a>
+
 ![Screenshoot](./app/assets/images/category.png)
 ![Screenshoot](./app/assets/images/details.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🧰 Tech Stack  <a name="tech-stack"></a>
+## 🧰 Tech Stack <a name="tech-stack"></a>
+
 - Ruby on Rails
 - PostgreSQL
 - Devise
@@ -46,7 +48,8 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ✨ Key Features  <a name="key-features"></a>
+## ✨ Key Features <a name="key-features"></a>
+
 - Easily create categories to track transactions.
 - Introduce new transactions associated with a category.
 - See money spent on each category.
@@ -56,15 +59,16 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- [View live](https://budget-tracker-cl27.onrender.com)
+[View live](https://budget-tracker-cl27.onrender.com)
 
-## 📘 Getting Started  <a name="getting-started"></a>
+## 📘 Getting Started <a name="getting-started"></a>
 
 To run this project locally, you'll need to follow these steps.
 
 ### 📋 Prerequisites
 
 Make sure you have the following installed on your machine:
+
 - [Ruby 3.0.1 or higher](https://www.ruby-lang.org/en/)
 - [Rails 7.0.4 or higher](https://rubyonrails.org/)
 - [PostgreSQL 15.2 or higher](https://www.postgresql.org/)
@@ -119,25 +123,24 @@ rspec spec --format doc
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👨‍🚀 Authors  <a name="author"></a>
+## 👨‍🚀 Authors <a name="author"></a>
 
-👤 **Thomas Obuya**
+👤 **Ace Star**
 
 - [GitHub](https://github.com/tobuya)
 - [Twitter](https://twitter.com/MullerTheGreat1)
 - [LinkedIn](https://linkedin.com/in/tobuya)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🎯 Future Features  <a name="future-features"></a>
+## 🎯 Future Features <a name="future-features"></a>
 
 - [ ] Desktop Version
 - [ ] Side Menu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contribution  <a name="contribution"></a>
+## 🤝 Contribution <a name="contribution"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -145,7 +148,7 @@ Feel free to check the [issues page](https://github.com/tobuya/budget_tracker/is
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💖 Show Your Support  <a name="support"></a>
+## 💖 Show Your Support <a name="support"></a>
 
 If you like this project, please consider giving it a ⭐.
 
